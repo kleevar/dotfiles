@@ -1,0 +1,47 @@
+{
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.emptySelectionClipboard": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.detectIndentation": false,
+    "editor.gotoLocation.multipleReferences": "goto",
+    "editor.gotoLocation.multipleDefinitions": "goto",
+    "editor.gotoLocation.multipleImplementations": "goto",
+    "editor.gotoLocation.multipleTypeDefinitions": "goto",
+    "editor.fontSize": 15,
+    "editor.lineHeight": 1.5,
+    "editor.lineNumbers": "relative",
+    "editor.fontFamily": "TX-02",
+    "editor.tabSize": 4,
+    "editor.minimap.enabled": false,
+
+    "explorer.compactFolders": false,
+    "extensions.ignoreRecommendations": true,
+
+    "terminal.integrated.fontFamily": "MesloLGS Nerd Font Mono",
+    "terminal.integrated.fontSize": 14,
+    "terminal.integrated.lineHeight": 1.4,
+
+    "workbench.editor.enablePreview": false,
+    "workbench.activityBar.location": "hidden",
+    "workbench.editor.showTabs": "none",
+    "workbench.tips.enabled": false,
+    "workbench.startupEditor": "none",
+
+    "window.commandCenter": false,
+    "window.newWindowDimensions": "inherit",
+
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "breadcrumbs.enabled": false,
+
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/packages-lock.json": true
+    },
+
+    "telemetry.editStats.enabled": false,
+    "telemetry.feedback.enabled": false,
+
+    "catppuccin-noctis-icons.hidesExplorerArrows": false,
+    "claudeCode.preferredLocation": "panel"
+}
