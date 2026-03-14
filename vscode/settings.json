@@ -26,6 +26,9 @@
     "workbench.editor.showTabs": "none",
     "workbench.tips.enabled": false,
     "workbench.startupEditor": "none",
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Catppuccin Noctis Mocha",
+    "workbench.iconTheme": "catppuccin noctis icons",
 
     "window.commandCenter": false,
     "window.newWindowDimensions": "inherit",
@@ -41,6 +44,11 @@
 
     "telemetry.editStats.enabled": false,
     "telemetry.feedback.enabled": false,
+
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#1e1e2e",
+        "titleBar.inactiveBackground": "#1e1e2e"
+    },
 
     "catppuccin-noctis-icons.hidesExplorerArrows": false,
     "claudeCode.preferredLocation": "panel"
